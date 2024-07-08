@@ -1,0 +1,1 @@
+# mimikatz credentials collector

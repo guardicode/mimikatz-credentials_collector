@@ -1,0 +1,37 @@
+{
+  "template": "https://github.com/guardicode/infection-monkey-cookiecutter",
+  "commit": "88e00daa53676ef1c4e7c749dc6ef39a6f310a54",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "__project_type": "agent_plugin",
+      "plugin_name": "Mimikatz",
+      "__plugin_name": "mimikatz",
+      "plugin_options": "false",
+      "project_name": "mimikatz-credentials_collector",
+      "__project_slug": "mimikatz_credentials_collector",
+      "full_name": "Ilija Lazoroski",
+      "email": "ilija.lazoroski@gmail.com",
+      "platform": "github",
+      "org": "guardicode",
+      "url": "https://github.com/guardicode/mimikatz-credentials_collector",
+      "__year": "2024",
+      "license": "GPLv3",
+      "versioning_scheme": "PEP440",
+      "project_short_description": "Mimikatz Credentials Collector Agent Plugin for Infection Monkey",
+      "python_major_version": "3",
+      "python_minor_version": "11",
+      "support_type_checking": "y",
+      "hook_shellcheck": "y",
+      "exclude_these_file_in_flake8": "vulture_allowlist.py",
+      "_black_version": "24.3.0",
+      "_dlint_version": "0.14.1",
+      "_flake8_version": "6.0.0",
+      "_isort_version": "5.12.0",
+      "_mypy_version": "1.5.1",
+      "_vulture_version": "2.9.1",
+      "_template": "https://github.com/guardicode/infection-monkey-cookiecutter"
+    }
+  },
+  "directory": null
+}
